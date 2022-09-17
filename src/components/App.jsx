@@ -1,11 +1,11 @@
-import React from 'react';
+import React, {Component} from 'react';
 import Section  from './Section';
 import Statistics  from './Statistics';
 import FeedbackOptions from './FeedbackOptions';
 import Notification from './Notification';
 
 
-class Counter extends React.Component{
+class Counter extends Component{
   state = {
   good: 0,
   neutral: 0,
