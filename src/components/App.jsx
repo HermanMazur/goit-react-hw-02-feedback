@@ -1,7 +1,8 @@
 import React from 'react';
-import { Statistics } from 'components/Statistics';
-
-
+import  Section  from './Section';
+import  Statistics  from './Statistics';
+import  FeedbackOptions from './FeedbackOptions';
+import Notification from './Notification';
 
 
 class Counter extends React.Component{
