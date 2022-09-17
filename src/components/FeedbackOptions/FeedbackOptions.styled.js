@@ -1,10 +1,5 @@
 import styled from "styled-components";
 
-// export const List = styled.ul`
-// list-style: none;
-// display: flex;
-// `
-
 export const Button = styled.button`
 font-size: 15px;
 border: 1px solid grey;
